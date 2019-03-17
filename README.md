@@ -1,1 +1,2 @@
-# random_userAPI
+# js-jokes-setup
+JOKES API PROJECT SETUP
